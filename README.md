@@ -1,6 +1,6 @@
 # Olá, eu sou Matheus Seibt 👋
-💻 Data Engineer | Backend Developer
-☁️ AWS | GCP | Databricks | Spark
+💻 Data Engineer | Backend Developer  
+☁️ AWS | GCP | Databricks | Spark  
 🎓 Software Engineering Student @ PUCRS
 
 ---
@@ -25,8 +25,8 @@ Sou movido por evolução constante, disciplina e impacto real.
 
 ## 📌 Experiência
 
-🔹 Data Engineer Intern — DataLakers
-🔹 Data Science Intern — Neogrid
+🔹 Data Engineer Intern — DataLakers  
+🔹 Data Science Intern — Neogrid  
 🔹 Full Stack Developer Intern — Oi
 
 ---
@@ -62,8 +62,9 @@ Sou movido por evolução constante, disciplina e impacto real.
 
 ## 📫 Contato
 
-📍 Porto Alegre - RS
-💼 [LinkedIn](https://www.linkedin.com/in/seibt-990898213)
+📍 Porto Alegre - RS  
+🌐 [Portfólio](https://seibt05.github.io)  
+💼 [LinkedIn](https://www.linkedin.com/in/seibt-990898213)  
 📧 [matheus.seibt@gmail.com](mailto:matheus.seibt@gmail.com)
 
 ---
