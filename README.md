@@ -57,7 +57,6 @@ Sou movido por evolução constante, disciplina e impacto real.
 - Engenharia de Dados Avançada
 - Arquitetura Cloud
 - Backend Escalável
-- DataOps / MLOps
 
 ---
 
