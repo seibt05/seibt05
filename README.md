@@ -63,7 +63,7 @@ Sou movido por evolução constante, disciplina e impacto real.
 ## 📫 Contato
 
 📍 Porto Alegre - RS  
-🌐 [Portfólio](https://seibt05.github.io)  
+🌐 [Portfólio](https://seibt05.github.io/)  
 💼 [LinkedIn](https://www.linkedin.com/in/seibt-990898213)  
 📧 [matheus.seibt@gmail.com](mailto:matheus.seibt@gmail.com)
 
