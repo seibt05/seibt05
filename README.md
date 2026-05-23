@@ -31,19 +31,6 @@ Sou movido por evolução constante, disciplina e impacto real.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seibt05&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seibt05&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seibt05&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 ## 🔥 Activity Graph
 
 <div align="center">
