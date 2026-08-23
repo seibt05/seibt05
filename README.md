@@ -25,7 +25,7 @@ Sou movido por evolução constante, disciplina e impacto real.
 
 ## 📌 Experiência
 
-🔹 Data Engineer Intern — DataLakers  
+🔹 Data Engineer — DataLakers  
 🔹 Data Science Intern — Neogrid  
 🔹 Full Stack Developer Intern — Oi
 
